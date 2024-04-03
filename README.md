@@ -11,8 +11,3 @@ O que o Bookstore Assistant faz?
 * Crie chatbots: Implemente chatbots interativos que podem responder perguntas sobre livros e autores.
 * Analise sentimentos: Obtenha insights sobre como seus usuários se sentem em relação aos seus livros e serviços.
 
-Gostaria de agradecer à Michele Brito por seu excelente curso sobre Spring Boot e SpringAI. O curso me proporcionou os conhecimentos e habilidades necessários para desenvolver o Bookstore Assistant.
-
-GitHub: respository
-
-#SpringBoot #SpringAI #OpenAI #Java #IA #InteligênciaArtificial #BookstoreAssistant
